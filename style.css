@@ -1,0 +1,46 @@
+.fleft {float:left}
+.fright {float:right}
+.fclear {clear:both}
+.fcenter {float:none;text-align:center}
+body {background:#ece7eb;margin:0;padding:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#000}
+#wrapper {
+	width:960px;
+	margin:0 auto
+}
+#banner {background:url(images/banner-bg.png) top center no-repeat;width:959px;height:228px;padding-top:15px;padding-left:32px}
+#logo {margin-top:-135px;margin-left:25px}
+#content-bg {background:#dbbbd2;width:960px;margin:0 auto;margin-left:15px}
+#menu {background:url(images/menu.png) top center no-repeat;width:961px;height:75px}
+#menu ul {padding:0;width:580px;height:65px;margin-top:0;margin-left:200px}
+#menu ul li {float:left;list-style:none}
+.menu-btn {width:112px;height:65px;padding-top:15px}
+ul li a {color:#521044}
+#menu ul li a {display:block;text-decoration:none;font-size:14px;font-weight:bold;cursor:pointer;width:112px;height:16px;text-align:center;margin-top:3px}
+#menu ul li a:hover, #selected {}
+#left-content {float:left;clear:none;margin-left:15px}
+#left-content1 {float:left;clear:none;margin-left:15px}
+#welcome {margin-top:-35px}
+#welcome-top {background:url(images/welcome-top.png) top left no-repeat;width:320px;height:37px;padding-top:80px;padding-left:100px}
+#welcome-middle {background:url(images/welcome-bg.png) top left repeat-y;width:320px;padding-left:50px;padding-right:50px;text-align:justify;}
+#welcome-bottom {background:url(images/welcome-bottom.png) top left no-repeat;width:420px;height:31px}
+#more-btn1 {text-align:right;margin-top:15px}
+#our-wedding {margin-left:50px;margin-top:20px;width:335px}
+#wedding-title {margin-bottom:5px}
+.more-btn2 {margin-top:15px;margin-bottom:15px}
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+#right-content {float:left;clear:none;margin-left:50px}
+#family {width:400px}
+#fb-root {position:absolute;left:0;top:0;visibility:hidden;}
+.photos {border:5px solid #f6f0f4;float:left;clear:none}
+.family-txt {float:left;clear:none;margin-left:20px}
+.sub-title {color:#602152;font-weight:bold}
+#h-divider {background:url(images/h-divider.png) top left repeat-x;height:4px;margin-top:10px;margin-bottom:20px}
+#login {width:300px;background:url(images/love.gif) top left no-repeat;height:200px;padding-left:100px;padding-top:20px}
+#login input {color:#682159;background:#fae8f5;width:110px;height:15px;border:0}
+#login-btn {margin-top:10px}
+.input-box {background:url(images/input-box.png) top left no-repeat;width:125px;height:25px;padding-left:5px;padding-top:5px;float:left;clear:none}
+.login-links {color:#682159;float:left;clear:none;margin-top:10px}
+.login-links a {color:#682159}
+#footer {background:url(images/footer.png) top center no-repeat;width:922px;height:40px;margin-left:20px;text-align:center;padding-top:35px;font-size:12px;color:#fff}
+#footer div {padding:0 5px 0 0}
+a {color:#682159}
